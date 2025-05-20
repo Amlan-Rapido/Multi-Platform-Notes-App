@@ -33,3 +33,6 @@ plugins {
 }
 
 include(":composeApp")
+include(":shared")
+include(":sdk-storage")
+include(":sdk-sync")
